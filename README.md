@@ -17,6 +17,16 @@ Throughout my C Programming module, I have completed practical labs focused on d
 - **Algorithms:** Array sorting, searching, reversing and mathematical operations.
 - **Multidimensional Arrays:** Matrix manipulation, row calculations and multidimensional array processing.
 
+### Practical Skills Developed
+
+- Developing modular programs using reusable functions.
+- Processing and manipulating arrays using loops and pointers.
+- Creating and managing dynamically allocated memory.
+- Implementing sorting and searching algorithms.
+- Working with strings and character manipulation.
+- Debugging logical errors and memory allocation issues.
+- Improving code structure, efficiency and problem-solving skills.
+
 ### Before accessing files: 
 - Some files might download instead of being able to view them in GitHUb. Drag the file that downloaded into VScode and view my workings. 
 
